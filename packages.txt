@@ -1,0 +1,13 @@
+libgomp1
+```
+
+### **Step 6: Verify your file structure**
+
+Your repository should look like this:
+```
+sales-data-analysis-project/
+├── app.py
+├── sales_analysis.py
+├── requirements.txt
+├── packages.txt  (newly created)
+└── (other files)
